@@ -1,0 +1,5 @@
+{
+  "name": "Solar System Explorer",
+  "description": "A high-fidelity 3D interactive prototype of the solar system featuring educational layers, tour modes, and realistic visualizations.",
+  "requestFramePermissions": []
+}
